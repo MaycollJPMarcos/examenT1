@@ -1,6 +1,6 @@
 import random
 
-# Registro simple de equipo como lista [nombre, partidosGanados, partidosPerdidos, setGanados]
+
 equipo1 = [input("Ingrese el nombre del Equipo 1: "), 0, 0, 0]
 equipo2 = [input("Ingrese el nombre del Equipo 2: "), 0, 0, 0]
 
